@@ -1,7 +1,7 @@
 Bomber Defence
 ===============
  
-an unofficial Ludum Dare 46 game
+an unofficial Ludum Dare 46 game, done in single afternoon. Completely incomplete.
 
 Theme
 ------
@@ -11,4 +11,4 @@ Defend your precious underground vaults from destruction caused by falling bombs
 
 Controls
 -------- 
-mouse: aim, Left mouse button or spacebar: shoot.
+mouse: aim, hold left mouse button or spacebar: shoot.
